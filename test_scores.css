@@ -1,0 +1,27 @@
+body {
+    
+    
+    margin: 0 auto;
+    width: 600px;
+    padding: 0 2em 1em;
+    background-color: white;
+    border: 10px double yellow;
+    border-radius: 25px;
+    font-style: italic;
+    font-variant: small-caps;
+    
+    
+}
+label {
+    float: left;
+    width: 11em;
+    text-align: right;
+}
+input {
+    margin-left: 1em;
+    margin-bottom: .5em;
+}
+
+#qw{
+    color: black;
+}
