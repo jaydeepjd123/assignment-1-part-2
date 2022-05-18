@@ -24,5 +24,5 @@ document.write(`<p id ="qw">Score 1 = ${score1}</p>
 <p id ="qw">Score 2 = ${score2}</p>
 <p id ="qw">Score 3 = ${score3}</p>
 <p id ="qw">Score 4 = ${score4}</p>
-<p id ="qw">Average score = ${average}</p>`).style;
+<p id ="qw">Average score = ${average}</p>`);
    
