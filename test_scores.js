@@ -1,13 +1,13 @@
 "use strict";
 
 // get  scores from user and add them together
-const score1 = parseInt(prompt("Enter test score"));
+const score1 = parseInt(prompt("Enter test score" , 80 ));
 
-const score2 = parseInt(prompt("Enter test score"));
+const score2 = parseInt(prompt("Enter test score" , 75 ));
 
-const score3 = parseInt(prompt("Enter test score"));
+const score3 = parseInt(prompt("Enter test score" , 90 ));
 
-const score4 = parseInt(prompt("Enter test score"));
+const score4 = parseInt(prompt("Enter test score" , 90 ));
 
 const total = score1 + score2 + score3 + score4;
 
